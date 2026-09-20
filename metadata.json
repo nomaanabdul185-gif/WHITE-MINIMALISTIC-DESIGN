@@ -1,0 +1,6 @@
+{
+  "name": "INTERIORS | Design Studio",
+  "description": "Discover and request curated interior designs matched to your property, budget, and aesthetic preferences.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
